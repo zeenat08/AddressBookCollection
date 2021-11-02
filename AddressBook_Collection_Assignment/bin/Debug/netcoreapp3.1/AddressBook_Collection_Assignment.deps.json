@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AddressBook_Collection_Assignment/1.0.0": {
+        "runtime": {
+          "AddressBook_Collection_Assignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AddressBook_Collection_Assignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
